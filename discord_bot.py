@@ -103,7 +103,7 @@ async def hr(ctx):
     if ctx.channel.id == AUDIT_CHANNEL_ID:
         await count_and_print_roles(ctx.guild, 'HR Audit:')
 
-bot.run('MTIzNTQyNDMyODU5NDYyMDQ4Nw.GOvwZG.JMcIqrmd4wxAHaefGLMdSsVcgJobzPYMBigDEw')  # Replace with your actual token
+bot.run('Your_bot_##')  # Replace with your actual token
 
 
 
